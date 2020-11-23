@@ -49,23 +49,23 @@ In a computer screen every pixel is a coordinate. It has an “x” value (horiz
 
 Computers use a specific coordinate system than the one you’re used to in math class.
 
-The 0 origin is located in the top left and the x value increases to the right while the y-value increases down vertically.
+The 0 origin is located in the top left and the x value increases to the right while the y-value increases down vertically.  
 ![coordinategrid.png](https://nycdoe-cs4all.github.io/images/lessons/unit_1/1.1/coordinategrid.png)
 
-## Example: Robot
+## Example: Robot  
 ![robot.jpg](https://nycdoe-cs4all.github.io/images/lessons/unit_1/1.1/robot.png)
 
 ## Rectangles:
-* Draw rectangles along grid lines.
+* Draw rectangles along grid lines.  
 ![heightwidthsquare.png](https://nycdoe-cs4all.github.io/images/lessons/unit_1/1.1/heightwidthsquare.png)
 
 ## Ellipses:
 * Draw a point at two intersecting lines.
-* Draw an ellipse around that point with even width and height.
+* Draw an ellipse around that point with even width and height.  
 ![heightwidth.png](https://nycdoe-cs4all.github.io/images/lessons/unit_1/1.1/heightwidth.png)
 
 ## Step 2: Deconstruct Your Drawing
 List each shape used in your drawing.  provide the information for each shape as if you were instructing someone to draw your robot. You will need to specify the shape, the x and y coordinate, and the width and height of the shape (where applicable).
 
-Keep in mind that the x and y coordinate of a rectangle refer to one of it’s corners, while for an ellipse they refer to it’s center. Also keep in mind the p5 coordinate system with the origin in the upper left corner.
+Keep in mind that the x and y coordinate of a rectangle refer to one of it’s corners, while for an ellipse they refer to it’s center. Also keep in mind the p5 coordinate system with the origin in the upper left corner.  
 ![shapeinstructions.png](https://nycdoe-cs4all.github.io/images/lessons/unit_1/1.1/shapeinstructions.png)
