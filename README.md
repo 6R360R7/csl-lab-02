@@ -11,9 +11,8 @@ In this learning activity we will create a visual composition using the p5 shape
 We will understand the p5 canvas coordinate system, call functions and pass parameters to them, and consult the p5 reference for documentation about them.
 
 ## Objectives:
-* Create an account on the editor
-* Explain what p5.js is
-* Describe things you can create on p5.js
+* Explore what p5.js is
+* Imagine things you can create with p5.js
 * Understand the p5 canvas coordinate system
 
 ## Vocabulary:
