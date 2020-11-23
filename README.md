@@ -1,9 +1,7 @@
 # Unit 1 - Drawing, Variables, Random 
-# 1.1 p5.js Introduction and Deconstruction
+## 1.1 p5.js Introduction and Deconstruction
 
-## How can we break down a robot into basic shapes in p5.js?
-
-# Lesson Plan
+* How can we break down a robot into basic shapes in p5.js?
 
 ## Overview:
 In this learning activity we will create a visual composition using the p5 shape-drawing functions (ellipse, rect, line, point, quad, triangle), and set their fill and stroke to a grayscale value.
