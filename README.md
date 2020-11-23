@@ -66,7 +66,27 @@ The 0 origin is located in the top left and the x value increases to the right w
 List each shape used in your drawing.  provide the information for each shape as if you were instructing someone to draw your robot. You will need to specify the shape, the x and y coordinate, and the width and height of the shape (where applicable).
 
 Keep in mind that the x and y coordinate of a rectangle refer to one of it’s corners, while for an ellipse they refer to it’s center. Also keep in mind the p5 coordinate system with the origin in the upper left corner.  
-![shapeinstructions.png](https://nycdoe-cs4all.github.io/images/lessons/unit_1/1.1/shapeinstructions.png)
+![shapeinstructions.png](https://nycdoe-cs4all.github.io/images/lessons/unit_1/1.1/shapeinstructions.png)  
+```
+// robot
+
+function setup() {
+  createCanvas(120, 120);
+}
+
+function draw() { 
+  background(220);
+  // head
+  rect(50, 20, 10, 10);
+  rect(20, 30, 70, 60);
+  // eyes
+  ellipse(40, 50, 20);
+  ellipse(70, 50, 20);
+  // mouth
+  rect(40, 70, 30, 10);
+}
+
+```
 
 
 
