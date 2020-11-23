@@ -1,3 +1,4 @@
+# Unit 1 - Drawing, Variables, Random 
 # 1.1 p5.js Introduction and Deconstruction
 
 ## How can we break down a robot into basic shapes in p5.js?
@@ -69,3 +70,7 @@ List each shape used in your drawing.  provide the information for each shape as
 
 Keep in mind that the x and y coordinate of a rectangle refer to one of it’s corners, while for an ellipse they refer to it’s center. Also keep in mind the p5 coordinate system with the origin in the upper left corner.  
 ![shapeinstructions.png](https://nycdoe-cs4all.github.io/images/lessons/unit_1/1.1/shapeinstructions.png)
+
+
+
+[Unit 01 - Drawing, Variables, Random](https://nycdoe-cs4all.github.io/units/1/lessons/lesson_1.1)
