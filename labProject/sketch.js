@@ -1,3 +1,5 @@
+// Draw Robot
+
 function setup() {
 	createCanvas(120, 120);
   }
