@@ -1,6 +1,5 @@
-# Unit 1 - Drawing, Variables, Random 
-## 1.1 p5.js Introduction and Deconstruction
-
+# CSL 02 - Drawing 
+ 
 * How can we break down a robot into basic shapes in p5.js?
 
 ## Overview:
