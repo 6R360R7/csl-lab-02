@@ -1,4 +1,4 @@
-# CSL Lab 02 - Drawing 
+# CSL Lab 02 - Functions
  
 * How can we break down a robot into basic shapes in p5.js?
 
